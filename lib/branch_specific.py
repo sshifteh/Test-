@@ -1,0 +1,1 @@
+#option binary exe
